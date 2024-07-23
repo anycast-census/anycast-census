@@ -1,0 +1,2 @@
+19/06/2024 - Added list of previously found anycast prefixes that are always checked daily. (increasing number of daily IPv4 /24s found from ~12.1k to ~12.3k)
+23/07/2024 - Added MAnycastR nodes to Ark. (lower bound enumeration of large anycast deployments (e.g., CloudFlare) increased by ~20% for IPv4, ~60% for IPv6), (number of anycast prefixes detected increased by ~0.7% and ~1.5% for IPv4 and IPv6 respectively)
