@@ -2,3 +2,4 @@
 23/07/2024 - Added MAnycastR nodes to Ark. (GCD lower bound enumeration of large anycast deployments (e.g., CloudFlare) increased by ~20% for IPv4, ~60% for IPv6), (GCD number of anycast prefixes detected increased by ~0.7% and ~1.5% for IPv4 and IPv6 respectively)
 10/08/2024 - Updated IPv6 hitlist, TUM (~150 additional anycast /48s found)
 14/08/2024 - Expanded IPv4, IPv6 hitlist using anycatch and public-dns.info addresses (~100, ~230 additional anycast prefixes found for IPv4 and IPv6 respectively)
+15/08/2024 - Added AAAA record addresses for domain names that point to IPv4 anycast addresses (~10 additional anycasted /48s found)
