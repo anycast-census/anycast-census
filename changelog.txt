@@ -3,3 +3,5 @@
 10/08/2024 - Updated IPv6 hitlist, TUM (~150 additional anycast /48s found)
 14/08/2024 - Expanded IPv4, IPv6 hitlist using anycatch and public-dns.info addresses (~100, ~230 additional anycast prefixes found for IPv4 and IPv6 respectively)
 15/08/2024 - Added AAAA record addresses for domain names that point to IPv4 anycast addresses (~10 additional anycasted /48s found)
+22/08/2024 <-> 04/09/2024 - Technical problems with pipeline, limiting results in both detection and enumeration.
+05/09/2024 - Added 'stats' file to daily upload, giving statistics about daily upload. Including number of available nodes used in the GCD measurement (as it affects performance)
