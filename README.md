@@ -93,4 +93,4 @@ YYYY/MM/DD/YYYY-MM-DD_v6_location.json
 	-	`code_country`: Country ISO 3166-1 alpha-2
 	-	`id`: Closest Airport IATA 3 Letter Code 
 	-	`latitude`: Estimated Latitude
-	-	`latitude`: Estimated Longitude
+	-	`longitude`: Estimated Longitude
