@@ -1,0 +1,78 @@
+===============================================================================
+=== The MAnycastR Project =========================================
+===============================================================================
+=== Open Access Datasets - TERMS OF USE =======================================
+===============================================================================
+
+Document last updated Monday November 12, 2024
+
+Use of the datasets provided through the MAnycastR repository is subject to the
+terms and conditions set out in this document. PLEASE READ THIS DOCUMENT
+CAREFULLY BEFORE DOWNLOADING OR USING DATA.
+
+0. THE MANYCASTR PROJECT
+
+The MAnycastR project provides a daily census of anycast deployments on the Internet.
+More information on the project can be found at
+
+  https://github.com/anycast-census/anycast-census/blob/main/README.md
+
+1. LICENCE
+
+The open access datasets provided through the MAnycastR repository are subject
+to the Creative Commons CC BY-NC-SA 4.0 licence. This licence entitles you to
+use, modify and redistribute the data for non-commercial purposes, provided
+that redistribution takes place under the same terms, and that you give
+appropriate credit to the source of the data, as stipulated under clause 2
+below. You can find the licence in full at:
+
+  https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Any redistribution of (parts of) MAnycastR open access data MUST include an
+unmodified copy of this document in full.
+
+2. ATTRIBUTION
+
+If you make use of any of the open access data from the MAnycastR project,
+you must acknowledge use of this data by including the following attribution
+in any document, web page or other communication:
+
+"The research leading to these results was made possible by the MAnycastR project
+(https://github.com/anycast-census/anycast-census/).”
+
+Furthermore, if you use open access data from the MAnycastR project for
+research that is published in a scientific paper, poster or other peer
+reviewed content, the paper you must cite is to be announced (pending publication).
+
+3. USE OF THE DOWNLOAD SERVICE
+
+Persons and/or organisations that wish to download data that is made available
+by the MAnycastR project through its public servers must take reasonable
+measures to ensure that the servers do not experience undue load
+because of excessive downloads or automated processes. The MAnycastR project
+reserves the right to block downloads from any location or address without
+prior notice. Any abuse will be reported to appropriate abuse contact points.
+
+In general we note that datasets are updated once every 24 hours, thus, down-
+loading data more frequently than once per calendar day is generally not
+useful.
+
+4. DISCLAIMER OF WARRANTIES
+
+The following disclaimer applies to all data that is made available to you
+by the MAnycastR project:
+
+MANYCASTR USES ITS BEST EFFORTS TO PROVIDE DATA IN ACCORDANCE WITH ETHICAL
+PRINCIPLES AND SCIENTIFIC INTEGRITY. HOWEVER, THE DATA PROVIDED HEREIN IS ON AN
+"AS IS" BASIS. NEITHER MANYCASTR, ITS RESEARCHERS, RESEARCH PARTNERS,
+LICENSORS, AND DATA PROVIDERS MAKE ANY WARRANTY, EITHER IMPLIED OR EXPRESS, OF 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, INCLUDING, BUT NOT LIMITED 
+TO, THE ACCURACY, TIMELINESS, COMPLETENESS, RELIABILITY, OR AVAILABILITY OF 
+MANYCASTR DATA, APPLICATIONS, OR SERVICES ACCESSIBLE THROUGH OR MADE AVAILABLE 
+BY MANYCASTR.
+
+TO THE EXTENT ALLOWED BY LAW, YOU WILL INDEMNIFY, DEFEND AND HOLD HARMLESS
+MANYCASTR FROM ALL LIABILITIES, CLAIMS, DEMANDS, COSTS, JUDGMENTS, DAMAGES, LOSSES AND EXPENSES
+ARISING OUT OF OR IN CONNECTION WITH ANY USE OF THE DATA BY YOU. IN NO EVENT 
+SHALL MANYCASTR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, 
+SPECIAL OR PUNITIVE DAMAGES, ARISING FROM YOUR USE OF THE DATA.
