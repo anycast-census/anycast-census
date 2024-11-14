@@ -1,5 +1,5 @@
 ===============================================================================
-=== The MAnycastR Project =========================================
+=== The MAnycastR Project =====================================================
 ===============================================================================
 === Open Access Datasets - TERMS OF USE =======================================
 ===============================================================================
@@ -12,8 +12,9 @@ CAREFULLY BEFORE DOWNLOADING OR USING DATA.
 
 0. THE MANYCASTR PROJECT
 
-The MAnycastR project provides a daily census of anycast deployments on the Internet.
-More information on the project can be found at
+The MAnycastR project provides a daily census of anycast;
+including detection, enumeration, and geolocation.
+More information on the project can be found at:
 
   https://github.com/anycast-census/anycast-census/blob/main/README.md
 
@@ -37,12 +38,13 @@ If you make use of any of the open access data from the MAnycastR project,
 you must acknowledge use of this data by including the following attribution
 in any document, web page or other communication:
 
-"The research leading to these results was made possible by the MAnycastR project
-(https://github.com/anycast-census/anycast-census/).”
+"The research leading to these results was made possible by the 
+MAnycastR project (https://github.com/anycast-census/anycast-census/).”
 
 Furthermore, if you use open access data from the MAnycastR project for
 research that is published in a scientific paper, poster or other peer
-reviewed content, the paper you must cite is to be announced (pending publication).
+reviewed content, the paper you must cite is to be announced
+(pending publication).
 
 3. USE OF THE DOWNLOAD SERVICE
 
@@ -72,7 +74,8 @@ MANYCASTR DATA, APPLICATIONS, OR SERVICES ACCESSIBLE THROUGH OR MADE AVAILABLE
 BY MANYCASTR.
 
 TO THE EXTENT ALLOWED BY LAW, YOU WILL INDEMNIFY, DEFEND AND HOLD HARMLESS
-MANYCASTR FROM ALL LIABILITIES, CLAIMS, DEMANDS, COSTS, JUDGMENTS, DAMAGES, LOSSES AND EXPENSES
-ARISING OUT OF OR IN CONNECTION WITH ANY USE OF THE DATA BY YOU. IN NO EVENT 
-SHALL MANYCASTR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, 
-SPECIAL OR PUNITIVE DAMAGES, ARISING FROM YOUR USE OF THE DATA.
+MANYCASTR FROM ALL LIABILITIES, CLAIMS, DEMANDS, COSTS, JUDGMENTS, DAMAGES, LOSSES
+AND EXPENSES ARISING OUT OF OR IN CONNECTION WITH ANY USE OF THE DATA BY YOU.
+IN NO EVENT SHALL MANYCASTR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT,
+CONSEQUENTIAL, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES,
+ARISING FROM YOUR USE OF THE DATA.
