@@ -8,4 +8,4 @@
 05/09/2024 - Added 'stats' file to daily upload, giving statistics about daily upload. Including number of available nodes used in the GCD measurement (as it affects performance)
 13/11/2024 - Updated IPv6 hitlist (both TUM and OI addresses)
 
-NOTE: 'stats' file from 31/05/2024 till 01/09/2024 has wrong number of GCD nodes reported
+NOTE: 'stats' file from 31/05/2024 till 04/09/2024 has wrong number of GCD nodes reported
