@@ -5,3 +5,4 @@
 15/08/2024 - Added AAAA record addresses for domain names that point to IPv4 anycast addresses (~10 additional anycasted /48s found)
 22/08/2024 <-> 04/09/2024 - Technical problems with pipeline, limiting results in both detection and enumeration.
 05/09/2024 - Added 'stats' file to daily upload, giving statistics about daily upload. Including number of available nodes used in the GCD measurement (as it affects performance)
+13/11/2024 - Updated IPv6 hitlist (both TUM and OI addresses)
