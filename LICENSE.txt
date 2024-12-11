@@ -44,7 +44,7 @@ MAnycastR project (https://github.com/anycast-census/anycast-census/).”
 Furthermore, if you use open access data from the MAnycastR project for
 research that is published in a scientific paper, poster or other peer
 reviewed content, the paper you must cite is to be announced
-(pending publication).
+(pending publication). Contact anycastcensus@gmail.com for details.
 
 3. USE OF THE DOWNLOAD SERVICE
 
