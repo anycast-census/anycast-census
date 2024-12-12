@@ -3,6 +3,33 @@
 This repository contains the dataset of the Anycast Census (detected /24 Anycast Prefixes), discovered using MAnycastR.
 The repository is updated daily.
 
+Contact [anycastcensus@gmail.com](mailto:anycastcensus@gmail.com)
+
+## Recommendations for using the census
+
+TLDR:
+* We recommend filtering on MAnycast & iGreedy == True when high confidence is needed.
+* We recommend filtering on MAnycast | iGreedy == True (all) when 
+
+### False detection of anycast
+The anycast-based approach suffers from FPs (see [MAnycast2](https://www.sysnet.ucsd.edu/sysnet/miscpapers/manycast2-imc20.pdf)).
+These FPs are especially prevalent when MAnycast receives replies at two locations.
+
+### False detection of unicast
+The GCD-based approach is highly accurate.
+However, it has rare cases of FNs when anycast is deployed in small geographic regions (i.e., regional anycast).
+
+### Recommendations
+If high confidence is needed, ensure that MAnycast detects more than two instances or iGreedy detects anycast.
+If completeness is needed, filter on either approach detects anycast.
+
+## Partial anycast
+
+To minimize the impact of our daily probing methodology we scan at a /24 (/48 for IPv6) granularity.
+However, there are cases of partial anycast where the /24 contains both unicast and anycast addresses.
+Scanning at /32 granularity reveals ~1.0k /24s are partially anycast.
+We will flag these cases in the near future.
+
 ## Anycast Detection Data Structure
 
 Following we describe the structure of the provided census files.
