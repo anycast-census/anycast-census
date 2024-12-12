@@ -21,11 +21,11 @@ However, it has rare cases of FNs when anycast is deployed in small geographic r
 
 ### Recommendations
 If high confidence is needed, ensure that MAnycast detects more than two instances or iGreedy detects anycast.
-If completeness is needed, filter on either approach detects anycast.
+If Completeness is needed, use all prefixes in this census (either methodology detects anycast).
 
 ## Partial anycast
 
-To minimize the impact of our daily probing methodology we scan at a /24 (/48 for IPv6) granularity.
+To minimize the impact of our daily probing methodology we scan at a /24 granularity.
 However, there are cases of partial anycast where the /24 contains both unicast and anycast addresses.
 Scanning at /32 granularity reveals ~1.0k /24s are partially anycast.
 We will flag these cases in the near future.
