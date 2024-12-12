@@ -8,8 +8,8 @@ Contact [anycastcensus@gmail.com](mailto:anycastcensus@gmail.com)
 ## Recommendations for using the census
 
 TLDR:
-* We recommend filtering on MAnycast & iGreedy == True when high confidence is needed.
-* We recommend filtering on MAnycast | iGreedy == True (all) when 
+* We recommend filtering on MAnycast && iGreedy == True when high confidence is needed.
+* We recommend filtering on MAnycast || iGreedy == True (all) when completeness is needed. 
 
 ### False detection of anycast
 The anycast-based approach suffers from FPs (see [MAnycast2](https://www.sysnet.ucsd.edu/sysnet/miscpapers/manycast2-imc20.pdf)).
