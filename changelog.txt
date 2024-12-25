@@ -10,6 +10,7 @@
 21/11/2024 - Updated IPv4 hitlist (12.1k -> 12.7k IPv4 GCD-confirmed anycast /24s) 
 03/12/2024 - Extended hitlist using /32-granularity measurement results (12.7k -> 13.4k IPv4 GCD-confirmed anycast /24s)
 06/12/2024 - Updated IPv4 hitlist
+24/12/2024 - Fixed DNS probing
 
 
 NOTE: 'stats' file from 31/05/2024 till 04/09/2024 has wrong number of GCD nodes reported
