@@ -14,3 +14,4 @@
 20/03/2025 - updated v4 hitlist
 26/03/2025 <-> 15/04/2025 - structural changes to Ark platform (fewer nodes available for GCD)
 15/04/2025 - GCD measurements now performed with up to 270 Ark VPs
+13/05/2025 - updated v4 hitlist
