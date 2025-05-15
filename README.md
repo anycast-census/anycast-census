@@ -1,4 +1,4 @@
-# MAnycastR Anycast Census
+# LACeS Anycast Census
 
 This repository contains the dataset of the Anycast Census (detected /24 Anycast Prefixes), discovered using MAnycastR.
 The repository is updated daily.
