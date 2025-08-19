@@ -24,11 +24,18 @@ If high confidence is needed, ensure that MAnycast detects more than two instanc
 If Completeness is needed, use all prefixes in this census (either methodology detects anycast).
 
 ## Partial anycast
-
 To minimize the impact of our daily probing methodology we scan at a /24 granularity.
 However, there are cases of partial anycast where the /24 contains both unicast and anycast addresses.
 Scanning at /32 granularity reveals ~1.0k /24s are partially anycast.
 We will flag these cases in the near future.
+
+## IPv6
+We use TUM's public IPv6 hitlist [IPv6Hitlist](https://ipv6hitlist.github.io/).
+To maintain reasonable probing times, we scan only the first /48 of aliased prefixes.
+A join with the aliased prefixes set, should give a more complete list of anycast prefixes.
+
+Finally, we use AAAA record addresses from [OpenINTEL](https://www.openintel.nl/).
+
 
 ## Anycast Detection Data Structure
 
