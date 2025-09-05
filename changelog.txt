@@ -17,4 +17,5 @@
 13/05/2025 - updated v4 hitlist
 01/05/2025 <-> 03/06/2025 - GCD with only 32 VPs available
 18/08/2025 - Updated TCPv4 and IPv6 hitlists
-03/09/2025 - Updated feedback loop
+03/09/2025 - Updated feedback loop (ICMPv4)
+04/09/2025 - Updated feedback loop (ICMPv6)
