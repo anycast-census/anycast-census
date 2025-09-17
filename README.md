@@ -1,3 +1,5 @@
+# This repository has been moved to [github.com/ut-dacs/anycast-census](https://github.com/ut-dacs/anycast-census)
+
 # LACeS Anycast Census
 
 This repository contains the dataset of the Anycast Census (detected /24 Anycast Prefixes), discovered using LACeS.
